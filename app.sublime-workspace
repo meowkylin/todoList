@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"oneMsgModel"
+			],
+			[
+				"o",
+				"oneMsgTest"
+			],
+			[
+				"one",
+				"oneMsgTest"
+			],
+			[
+				"onem",
+				"oneMsgTest"
+			],
+			[
+				"ac",
+				"accept-charset	Attr"
+			],
+			[
+				"ge",
+				"getvar2"
+			],
+			[
+				"err",
+				"error_template"
+			],
+			[
+				"cous",
+				"courseNO"
+			],
+			[
+				"co",
+				"courseName"
+			],
+			[
+				"cou",
+				"courseName"
+			],
+			[
+				"csn",
+				"courseNO"
+			],
+			[
+				"std",
+				"student_idNumber"
+			],
+			[
+				"s",
+				"stackSize"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"sta",
+				"stackValue"
+			],
+			[
+				"get",
+				"getTop"
+			],
+			[
+				"inner",
+				"innerLocalVariable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssc++",
+				"Set Syntax: C++"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Workspace/todoList/app.js",
+		"/C/Workspace/todoList/views/index.html",
+		"/C/Workspace/todoList/db.js",
+		"/C/Users/Kaiy/Documents/WeChat Files/Kaiycat/Attachment/Untitled-1.html",
+		"/C/node_mongoDB/app_2_express.js",
+		"/C/node_mongoDB/app_3_all_together.js",
+		"/C/Workspace/todoList/package.json",
+		"/C/Workspace/todoList/routes/index.js",
+		"/C/Users/Kaiy/Desktop/week_1_introduction.a7d9eca3c361/get_express_568d1560d8ca390830d6eb67/get_express/app.js",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/reading_documents_56959fced8ca393add3abe6f/reading_documents/toyStory3.js",
+		"/C/node_mongoDB/views/movies.html",
+		"/C/Users/Kaiy/Desktop/todoList_Alpha_/Todo-List-87b4444d62fcb6b4f1eb58d18b8fd103948e4df1/package.json",
+		"/C/node_mongoDB/1express.js",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/src/routes/index.ts",
+		"/C/Users/Kaiy/Desktop/express-todo-example-master/app.js",
+		"/C/Users/Kaiy/Desktop/todoList_Alpha_/Todo-List-87b4444d62fcb6b4f1eb58d18b8fd103948e4df1/routes/index.ts",
+		"/C/Users/Kaiy/Desktop/express-todo-example-master/routes/index.js",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/views/index.jade",
+		"/C/Users/Kaiy/Desktop/express-todo-example-master/db.js",
+		"/C/Workspace/todoList/routers/index.js",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/src/db.ts",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/src/app.ts",
+		"/C/Users/Kaiy/Desktop/todoList_Alpha_/Todo-List-87b4444d62fcb6b4f1eb58d18b8fd103948e4df1/db.ts",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/package.json",
+		"/C/node_mongoDB/package.json",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/tsconfig.json",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/views/register.jade",
+		"/C/Users/Kaiy/Desktop/todoList_newest/Todo-List-d1851e87f909cde591b42c7dc2cd52159c7a5e5a/README.md",
+		"/C/Users/Kaiy/Desktop/todoList_Alpha_/Todo-List-87b4444d62fcb6b4f1eb58d18b8fd103948e4df1/tsconfig.json",
+		"/C/Users/Kaiy/Desktop/todoList_Alpha_/Todo-List-87b4444d62fcb6b4f1eb58d18b8fd103948e4df1/app.ts",
+		"/C/Users/Kaiy/Desktop/todoList_Alpha_/Todo-List-87b4444d62fcb6b4f1eb58d18b8fd103948e4df1/views/index.jade",
+		"/C/Users/Kaiy/Desktop/Todo-List-Yippen/Todo-List-master/routes/index.ts",
+		"/C/node_mongoDB/views/hello.html",
+		"/C/Users/Kaiy/Desktop/Todo-List-Yippen/Todo-List-master/views/index.jade",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/creating_documents_56959fced8ca393add3abe66/creating_documents/insertMany-unordered-duperemoved.js",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/reading_documents_56959fced8ca393add3abe6f/reading_documents/toyStory3-awardsDocs.js",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/reading_documents_56959fced8ca393add3abe6f/reading_documents/toyStore3.json",
+		"/C/Users/Kaiy/Desktop/week_1_introduction.a7d9eca3c361/post_express_568d156ed8ca39082fd6eb2a/post_express/views/fruitPicker.html",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/creating_documents_56959fced8ca393add3abe66/creating_documents/insertMany-ordered-imdb-ids.js",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/creating_documents_56959fced8ca393add3abe66/creating_documents/insertMany-ordered.js",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/creating_documents_56959fced8ca393add3abe66/creating_documents/insertMany-unordered.js",
+		"/C/Users/Kaiy/Desktop/week_2_crud.2d9418d3dd91/creating_documents_56959fced8ca393add3abe66/creating_documents/insertOne.js",
+		"/C/Users/Kaiy/Desktop/week_1_introduction.a7d9eca3c361/post_express_568d156ed8ca39082fd6eb2a/post_express/app.js",
+		"/C/Users/Kaiy/Desktop/week_1_introduction.a7d9eca3c361/post_express_568d156ed8ca39082fd6eb2a/post_express/views/error_template.html",
+		"/C/Users/Kaiy/Desktop/week_1_introduction.a7d9eca3c361/get_express_568d1560d8ca390830d6eb67/get_express/package.json",
+		"/C/Users/Kaiy/Desktop/Todo-List-Yippen/Todo-List-master/app.ts",
+		"/C/Users/Kaiy/Desktop/Todo-List-Yippen/Todo-List-master/db.ts",
+		"/C/node_mongoDB/app_3_all.json",
+		"/C/node_mongoDB/app_1_mongoDB.js",
+		"/C/Users/Kaiy/Documents/C++程设题目/栈.cpp",
+		"/C/Users/Kaiy/Documents/C++程设题目/教师&学生.cpp",
+		"/C/Users/Kaiy/Desktop/BBBBBBBBBBBBBB.cpp",
+		"/C/Users/Kaiy/Desktop/AAAAAAAAAAA.cpp",
+		"/C/Users/Kaiy/Documents/C++程设题目/求点是否在圆里.cpp",
+		"/C/Users/Kaiy/Desktop/CCCCCCCCCCCCCCCC.cpp",
+		"/C/node_mongoDB/hello.html",
+		"/C/node_mongoDB/app.js",
+		"/C/node_mongoDB/app_1.js",
+		"/C/node_mongoDB/app_2.js",
+		"/C/Users/Kaiy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Kaiy/Documents/Curricular/Learning_from_Internet/Node.js _ imooc/HTTP/callback.js",
+		"/C/Users/Kaiy/Documents/Curricular/Learning_from_Internet/Node.js _ imooc/HTTP/even.js",
+		"/C/Users/Kaiy/Documents/Curricular/Learning_from_Internet/Node.js _ imooc/HTTP/scope.js",
+		"/C/Users/Kaiy/Documents/Curricular/Learning_from_Internet/Node.js _ imooc/HTTP/call_apply.js",
+		"/C/Users/Kaiy/Documents/Curricular/Learning_from_Internet/Node.js _ imooc/HTTP/call_apply_extend.js",
+		"/C/Users/Kaiy/Desktop/spider.py",
+		"/C/Users/Kaiy/Documents/Curricular/Learning_from_Internet/JavaScript _ imooc/Basic.js",
+		"/C/Users/Kaiy/Desktop/Node.js_from_imooc/student.js",
+		"/C/Users/Kaiy/Desktop/Node.js_from_imooc/teacher.js",
+		"/C/Users/Kaiy/Desktop/Node.js_from_imooc/klass.js",
+		"/C/Users/Kaiy/Desktop/Node.js_from_imooc/index.js",
+		"/C/Users/Kaiy/Desktop/Node.js_from_imooc/class.js",
+		"/C/Users/Kaiy/NodeBeginner/server.js",
+		"/C/Users/Kaiy/NodeBeginner/index.js",
+		"/C/Users/Kaiy/NodeBeginner/lxf.js",
+		"/C/Users/Kaiy/Desktop/Todo-List-master/Todo-List-master/package.json",
+		"/F/Node入门代码库/sever.js",
+		"/C/Users/Kaiy/Desktop/Todo-List-master/Todo-List-master/tsd.json"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"let",
+			"var",
+			"val",
+			"pS",
+			"ad",
+			"student"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"views\\index.html"
+			],
+			[
+				"db.js",
+				"db.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
