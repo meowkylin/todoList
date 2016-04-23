@@ -14,5 +14,5 @@ app.get('/api/delete/:id',routes.delete)
 app.post('/api/update/:id', routes.update)
 
 app.listen(3000, function (){
-		console.log('express listening on port 3000')
+		console.log('api is on')
 })
