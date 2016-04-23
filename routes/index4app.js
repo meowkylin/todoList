@@ -13,16 +13,16 @@ exports.index =  function(req, res){
 exports.create = (req, res)=> {
 	new oneMsgModel({
 			content:req.body.content,
-			time:Date.now()
+			deadline:req.body.deadline
 		})
 		.save()
-	res.redirect('/')
+	res.redirect('/api')
 }
 
 exports.delete = (req, res)=> {
 	oneMsgModel.findById( req.params.id, function ( err, todo ){
 		todo.remove()
-		res.redirect('/')
+		res.redirect('/api')
 	})
 }
 
@@ -30,8 +30,8 @@ exports.delete = (req, res)=> {
 exports.update = (req, res)=> {
 	oneMsgModel.findById( req.params.id, function( err, todo){
 		todo.content = req.body.content
-		todo.date = Date.now()
+		todo.deadline = req.body.deadline
 		todo.save()
-		res.redirect('/')
+		res.redirect('/api')
 	})
 }

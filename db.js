@@ -2,6 +2,6 @@ var mongoose = require('mongoose')
 var db = mongoose.connect('mongodb://localhost/newOne')
 var oneMsgSchema = mongoose.Schema({
 	content:String,
-	time:Date
+	deadline:Date
 })
 var oneMsgModel = mongoose.model('oneMsgModel',oneMsgSchema)
