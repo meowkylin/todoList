@@ -14,7 +14,7 @@
 	   		<li>
 
 	   		<b><%= todo.content %></b>
-	   		<input type="button" value="Delete" onclick="window.open('/api/delete/<%= todo._id %>')">
+	   		<button><a href="/api/delete/<%= todo._id %>">Delete</a></button>
 	   		<br/>
 	   		
 	   		<em>Deadline=><em/> <%= todo.deadline %> 
